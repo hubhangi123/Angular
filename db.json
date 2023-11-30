@@ -1,0 +1,139 @@
+{
+  "seller": [
+    {
+      "name": "shubhangi",
+      "password": "abc@123",
+      "email": "shubhangi@gmail.com",
+      "id": 1
+    },
+    {
+      "name": "Sam",
+      "password": "abc@123",
+      "email": "sam@gmail.com",
+      "id": 2
+    }
+  ],
+  "products": [
+    {
+      "name": "I phone 14",
+      "price": "80000",
+      "category": "mobile",
+      "color": "white",
+      "description": "Apple product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 1
+    },
+    {
+      "name": "samsung A53",
+      "price": "30000",
+      "category": "mobile",
+      "color": "blue",
+      "description": "Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "id": 2
+    },
+    {
+      "name": "nike shoes",
+      "price": "3000",
+      "category": "shoes",
+      "color": "black",
+      "description": "Best running shoes",
+      "image": "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/1eeaacc0-e07c-4024-a5f7-57f2fd23e8a2/air-max-270-g-golf-shoe-Z6vCfs.png",
+      "id": 3
+    },
+    {
+      "name": "HP",
+      "price": "100000",
+      "category": "Laptop",
+      "color": "white",
+      "description": "HP Product",
+      "image": "https://www.91-cdn.com/hub/wp-content/uploads/2022/07/Top-laptop-brands-in-India.jpg",
+      "id": 4
+    },
+    {
+      "name": "Levis Jeans",
+      "price": "2000",
+      "category": "Jeans",
+      "color": "blue",
+      "description": "comfortable jeans for man",
+      "image": "https://www.filmibeat.com/wimg/desktop/2012/12/13548612746596.jpg",
+      "id": 5
+    },
+    {
+      "name": "Noise",
+      "price": "5000",
+      "category": "watch",
+      "color": "pink",
+      "description": "Noise watch",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNv40z-hXHsKkPZmF0FfNuO5ChsCmNwBLLtSjWjO6IIqfuXSXDAtjGp_dq9Zc6Gqh5njQ&usqp=CAU",
+      "id": 6
+    },
+    {
+      "name": "soft toy",
+      "price": "20000",
+      "category": "Doll",
+      "color": "orange",
+      "description": "Doll for girls",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRTf73heQLAEM1mPS92AeKAfGnEwemMQ9-2OxUOd3PySvFrKH34aQTRgieOp6gvuMF-IA&usqp=CAU",
+      "id": 7
+    }
+  ],
+  "users": [
+    {
+      "name": "Shubhangi",
+      "Email": "shubhangi@user.com",
+      "Password": "abc@123",
+      "id": 1
+    },
+    {
+      "name": "John",
+      "Email": "john@user.com",
+      "Password": "abc@123",
+      "id": 2
+    }
+  ],
+  "cart": [
+    {
+      "name": "I phone 14",
+      "price": "80000",
+      "category": "mobile",
+      "color": "white",
+      "description": "Apple product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 1,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "samsung A53",
+      "price": "30000",
+      "category": "mobile",
+      "color": "blue",
+      "description": "Samsung product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o",
+      "quantity": 1,
+      "productId": 2,
+      "userId": 1,
+      "id": 2
+    }
+  ],
+  "Orders": [
+    {
+      "Email": "shubhangi@user.com",
+      "address": "sangola",
+      "contact": "9112833211",
+      "totalPrice": 50100,
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "Email": "shubhangi@user.com",
+      "address": "sangola",
+      "contact": "9112833211",
+      "totalPrice": 83100,
+      "userId": 1,
+      "id": 3
+    }
+  ]
+}
